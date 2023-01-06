@@ -1,0 +1,4 @@
+C1: trong tháng vừa rồi tài xế X có bao nhiêu chuyến đi bằng xe hãng xe Y biển số Z  (COUNTIF)
+C2: hoàn thiện dữ liệu
+C3: Thống kê xem ông tài xế X trong quý 4 có bao nhiêu chuyến đi và tổng tiền là bao nhiêu? ( DATE RANGE)
+C4: phân tích bài toán cửa hàng tạp hóa có bao nhiêu table và bao nhiêu trường
